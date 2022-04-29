@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\CatProject\\cat\\.git;C\:\\CatProject\\cat2\\.git;
+GitRepositoriesView.GitDirectories.relative=cat\\.git;cat2\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

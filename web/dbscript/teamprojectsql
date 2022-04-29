@@ -1,0 +1,15 @@
+create table user(
+user_id varchar2(50),
+user_pwd varchar2(100) not null,
+user_name varchar2(50) not null,
+user_birth varchar2(50) not null,
+phone varchar2(50) not null,
+address varchar2(500) not null,
+keyword varchar2(100) not null,
+admin_ok char(1) default 'N' not null,
+login_ok char(1) default 'Y' not null,
+primary key(user_id)
+);
+
+commit;
+
